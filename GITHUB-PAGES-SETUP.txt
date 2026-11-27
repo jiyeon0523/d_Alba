@@ -1,0 +1,8 @@
+GitHub Pages deployment setup
+
+1. Open the repository Settings > Pages.
+2. Under Build and deployment, set Source to GitHub Actions.
+3. Commit and push this project to the main branch, or re-run the failed workflow.
+
+The repository name shown in GitHub is d_Alba, so vite.config.ts uses base: /d_Alba/.
+The workflow uses npm ci (package-lock.json) and npm run build.

@@ -14,7 +14,7 @@ export default defineConfig(({ mode }) => {
 
   return {
    // base: process.env.FIGMA_PUBLIC_URL ? `${process.env.FIGMA_PUBLIC_URL}/` : '/',
-    base: '/d-Alba/',
+    base: '/d_Alba/',
     build: {
       sourcemap: emitSourcemaps ? 'inline' : false,
       minify: !emitSourcemaps,
