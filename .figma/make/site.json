@@ -1,0 +1,10 @@
+{
+  "description": "Explore d’Alba’s skincare collections, products, and care guides through a responsive shopping experience with interactive navigation and product browsing.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
